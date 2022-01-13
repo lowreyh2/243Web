@@ -4,3 +4,4 @@ Testing for second commit
 Testing for third commit
 
 First commit in bugfix-123
+Second commit in bugfix-123
